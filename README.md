@@ -1,14 +1,14 @@
 This is an example README.md
 
-Steve Teierle / sdt19@pitt.edu
+David Evans / dse4@pitt.edu
 ==================
 
 Three Facts About Me
 ---
 
-*   Red
-*   Green
-*   Blue
+*   I was born in Oakland, just a few blocks from the Cathedral
+*   I have two dogs.
+*   I can't stand when people whistle in public.
 
 ---
 
